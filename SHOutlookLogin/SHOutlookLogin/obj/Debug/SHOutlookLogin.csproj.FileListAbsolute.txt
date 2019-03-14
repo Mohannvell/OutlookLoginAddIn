@@ -1,0 +1,16 @@
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\SHOutlookLogin.dll
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\SHOutlookLogin.pdb
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\SHOutlookLogin.dll.manifest
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\SHOutlookLogin.vsto
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.Properties.Resources.resources
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.csproj.GenerateResource.cache
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.csproj.CoreCompileInputs.cache
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.csproj.CopyComplete
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.dll
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.pdb
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.csprojAssemblyReference.cache
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.OutlookLoginRibbon.resources
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\bin\Debug\SHOutlookLogin.dll.config
+D:\samples\Samples on VSTS\SHOutlookLogin\SHOutlookLogin\obj\Debug\SHOutlookLogin.LoginForm.resources
